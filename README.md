@@ -1,6 +1,6 @@
 # Comments and Test using `react-testing-library`
 
-This project was made following the @Luke Ghenco's post at medium. It was just for fun and to learn how `react-testing-library` works
+This project was made following the [Luke Ghenco](https://twitter.com/lukeghenco)'s post at medium. It was just for fun and to learn how `react-testing-library` works
 
 ### Note
 I followed the entire post, but I did some improvements using react hooks, react functional components and some `react-testing-library` methods were different from the original post due to the versions used.
